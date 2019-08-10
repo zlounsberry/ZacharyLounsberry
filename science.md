@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg: 
-  - src: "/img/pride_tips.png", desc: "Rainbow tips!!"
+  - "/img/pride_tips.png" : "Rainbow tips!!"
 ---
 # Science!
 ## Here are some of the sciences I make
