@@ -26,14 +26,14 @@ avatar: "img/wingit!isbasicallysnoop.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-# navbar-col: "#000000"
-navbar-text-col: "#0B1428"
-navbar-children-col: "#8b8b8b"
+navbar-col: "#0B1428"
+navbar-text-col: "#dbdbdb"
+navbar-children-col: "#0B1428"
 page-col: "#0B1428"
-link-col: "#8b8b8b"
+link-col: "#dbdbdb"
 hover-col: "#f02009"
 footer-col: "#0B1428"
-footer-text-col: "#000000"
+footer-text-col: "#dbdbdb"
 footer-link-col: "#f02009"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
