@@ -16,7 +16,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "img/wingit!isbasicallysnoop.jpg"
+avatar: "img/wingit!isbasicallysnoop.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -28,7 +28,7 @@ avatar: "img/wingit!isbasicallysnoop.jpg"
 
 # navbar-col: "#000000"
 navbar-text-col: "#000000"
-navbar-children-col: "#000000"
+navbar-children-col: "#9da1a1"
 page-col: "#9da1a1"
 link-col: "#000000"
 hover-col: "#f02009"
