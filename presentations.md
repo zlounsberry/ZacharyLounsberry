@@ -1,6 +1,6 @@
 # Presentations
-## These are presentations that I am first author on 
-### (if I did not give the talk/poster, the presenter is represented with a *)
+#### These are presentations that I am first author on 
+#### (if I did not give the talk/poster, the presenter is represented with a *)
 
 **Zachary T. Lounsberry**, Razib Khan, R. Spencer Wells, Daniel Fulop, Aaron J. Sams*, Adam R. Boyko* (2017) Y-chromosome haplotype diversity in a global sample of free-ranging and companion dogs. Poster presented at: Society for Molecular Biology & Evolution; Austin, TX, USA.
 
@@ -25,7 +25,7 @@
 **Zachary T. Lounsberry** and Daphne Soares* (2009). Female choice in Betta splendens using a socially complex paradigm. Poster presented at: SICB Annual Meeting; Boston, MA, USA.
 
 # Abstracts
-## I contributed to these but was not the primary author
+### I contributed to these but was not the primary author
 ### Great job to all the presenters, who totally crushed it!
 Moriel Singer-Berk, Mary Lassaline, Kelly Knickelbein, Nikhil Joshi, Monica Britton, Matthew Settles, **Zachary T. Lounsberry**, Christopher Reilly, Ellison Bentley, Alison Clode, Cord Drögemüller, Lucia Unger, Vincent Gerber, Tammy Miller-Michau, Rebecca Bellone* (2019) Additional Evidence Supports DDB2 T338M as the Genetic Risk Factor for Ocular Squamous Cell Carcinoma in Horses. Poster presented at: Plant and Animal Genomics XXVII; San Diego, CA, USA.
 
