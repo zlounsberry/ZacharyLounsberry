@@ -1,3 +1,9 @@
+---
+layout: page
+bigimg:
+  - "/img/alb_figure.png" : "Why so many control regions, North Pacific Albatrosses??"
+---
+
 Moriel H. Singer-Berk, Kelly E. Knickelbein, **Zachary T. Lounsberry**, Margo Crausaz, Savanna Vig, Nikhil Joshi, Monica Britton, Matthew L. Settles, Christopher M. Reilly, Ellison Bentley, Catherine Nunnery, Ann Dwyer, Mary E. Lassaline, Rebecca R. Bellone* (2019). Additional Evidence for DDB2 T338M as a Genetic Risk Factor for Ocular Squamous Cell Carcinoma in Horses. In review in International Journal of Genomics
 
 Benjamin N. Sacks*, **Zachary T. Lounsberry**, Halie Rando, Kris Kluepfel, Steve Fain, Sarah Brown, Anna Kukekova (2019) Sequencing red fox Y chromosome fragments to develop phylogenetically informative SNP markers and glimpse male-specific trans-Pacific phylogeography bioRxiv, DOI: 10.1101/552323
