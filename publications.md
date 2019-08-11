@@ -2,6 +2,7 @@
 layout: page
 bigimg: 
 - "/img/alb_figure1.png" : "Dang, North Pacific Albatrosses, that's an awful lot of mtDNA control regions you have there!"
+- "/img/foxes_figure1.png" : "Wild natives staying the heck away from fur farms"
 - "/img/deer_figure1.png" : "Microsats are good for individual ID of non-invasively sampled DNA. Not much else :)"
 ---
 
