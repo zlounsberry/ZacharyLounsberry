@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Zachary Lounsberry's Personal Website
+title: Zachary Lounsberry Bioinformatics
 
 # Short description of your site
 description: This is some of the science I do!
@@ -30,7 +30,6 @@ navbar-col: "#0B1428"
 navbar-text-col: "#bdbdbd"
 navbar-children-col: "#0B1428"
 page-col: "#0B1428"
-page-text-col: "#bdbdbd"
 link-col: "#bdbdbd"
 hover-col: "#f02009"
 footer-col: "#0B1428"
