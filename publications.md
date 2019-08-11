@@ -1,6 +1,7 @@
 ---
 layout: page
-image: "/img/alb_figure.png" : "Why so many control regions, North Pacific Albatrosses??"
+bigimg: 
+- "/img/alb_figure.png" 
 ---
 
 Moriel H. Singer-Berk, Kelly E. Knickelbein, **Zachary T. Lounsberry**, Margo Crausaz, Savanna Vig, Nikhil Joshi, Monica Britton, Matthew L. Settles, Christopher M. Reilly, Ellison Bentley, Catherine Nunnery, Ann Dwyer, Mary E. Lassaline, Rebecca R. Bellone* (2019). Additional Evidence for DDB2 T338M as a Genetic Risk Factor for Ocular Squamous Cell Carcinoma in Horses. In review in International Journal of Genomics
