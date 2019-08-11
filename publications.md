@@ -1,6 +1,6 @@
 ---
 layout: page
-bigimg:
+image:
   - "/img/alb_figure.png" : "Why so many control regions, North Pacific Albatrosses??"
 ---
 
