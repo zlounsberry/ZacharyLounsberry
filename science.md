@@ -1,19 +1,18 @@
 ---
 layout: page
 bigimg: 
-  - "/img/pride_tips.png" : "Rainbow tips!!"
+  - "/img/pride_tips.png"
 ---
 
 # Science!
 
-## Here are some of the sciences I make
+### I don't publish much these days because I am in more of a technical role than before, so here is some of what I am up to:
 
-Bioinformatics!
+## Bioinformatics!
 
-- Genome stuff
+### As a Bioinformatics Programmer 3, sometimes I get to do bioinformatics
 
-DataViz!
+#### Streamlining variant discovery on a high-performance computing cluster
 
-- Dataviz examples
 
-### Other stuff!
+## Automation!
