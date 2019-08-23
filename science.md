@@ -14,7 +14,6 @@ bigimg:
 
 #### Streamlining variant discovery on a high-performance computing cluster
 
-Inline-style: 
-![alt text](/img/pride_tips.png "Rough pipeline on computing cluster")
+![alt text](/img/pipeline.png "Rough pipeline on computing cluster")
 
 ## Automation!
