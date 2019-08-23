@@ -14,5 +14,7 @@ bigimg:
 
 #### Streamlining variant discovery on a high-performance computing cluster
 
+bigimg:
+  - "/img/pipeline.png"
 
 ## Automation!
