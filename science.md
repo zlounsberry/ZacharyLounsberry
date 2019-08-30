@@ -17,3 +17,7 @@ bigimg:
 ![alt text](/img/pipeline.png "Rough pipeline on computing cluster")
 
 #### Automation!
+
+![alt text]("https://giphy.com/embed/ekY2XQNzBABhb72wzk")
+
+#height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/automation-pipette-opentrons-ekY2XQNzBABhb72wzk">via GIPHY</a></p>
