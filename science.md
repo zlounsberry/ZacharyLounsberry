@@ -17,5 +17,6 @@ bigimg:
 ![alt text](/img/pipeline.png "Rough pipeline on computing cluster")
 
 #### Automation!
+I got into automation when I started at the VGL into 2017. Totally unintentional!
 
-![alt text](https://giphy.com/embed/ekY2XQNzBABhb72wzk)
+![alt text]("https://giphy.com/gifs/automation-pipette-opentrons-ekY2XQNzBABhb72wzk.gif")
