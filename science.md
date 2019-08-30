@@ -18,5 +18,6 @@ bigimg:
 
 #### Automation!
 I got into automation when I started at the VGL into 2017. Totally unintentional!
+Since then I have learned to troubleshoot, program, and maintain pipetting robots!
 
-![alt text]("https://giphy.com/gifs/automation-pipette-opentrons-ekY2XQNzBABhb72wzk.gif")
+![alt text](https://media.giphy.com/media/ekY2XQNzBABhb72wzk/giphy.gif)
